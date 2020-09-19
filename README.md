@@ -14,3 +14,7 @@ Features:
 - A turn-based battle system updating health bars at every turn
 - Object collision
 - A control I thought was cool: you need to type WASD in the body of CATBORG, which is actually a text box, to get it to move around the map, which renders each pixel as a CSS div.
+
+## What makes this interesting?
+
+I've played with game engines before, and wow using React/Typescript to make a game was a lot harder. It's probably not the right tool for game development.
